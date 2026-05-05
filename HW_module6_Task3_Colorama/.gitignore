@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Віртуальне оточення
+venv/
+env/
+ENV/
+.env
+.venv
+
+# Налаштування редакторів
+.vscode/
+.idea/
+
+# Тимчасові файли ОС
+.DS_Store
+Thumbs.db
